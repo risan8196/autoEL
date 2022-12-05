@@ -4,7 +4,7 @@ import sys
 class Panel_DO(QWidget):
 
     list_DO = [False, False, False, False, False]
-    list_btn
+    # list_btn
 
     def __init__(self) -> None:
         super().__init__()
